@@ -1,8 +1,4 @@
----
-abbrlink: 1
-published: false
----
-## `_posts`
+## `NoteSource`
 
 该目录为学习的课程笔记 `Markdown` 源文件。笔记均在 [aCannedFish's Home](https://acannedfish.github.io/) 网页上。分别对应：
 
