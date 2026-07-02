@@ -24,7 +24,7 @@ published: false
 	
 - `CS231n/`: (Stanford CS231n) 计算机视觉中的深度学习
 	
-	主要参考课程 Notes 及 PPT。
+	主要参考课程 Notes 及 PPT
 	
 	课程主页：[CS231n Deep Learning for Computer Vision](https://cs231n.github.io/)
 	
@@ -32,6 +32,6 @@ published: false
 	
 - `MIT6_S184/`: (MIT 6.S184) 流模型与扩散模型
 	
-	主要参考课程 Notes。
+	主要参考课程 Notes
 	
 	课程主页：[Introduction to Flow Matching and Diffusion Models 2026](https://diffusion.csail.mit.edu/2026/index.html)
