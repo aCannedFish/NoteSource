@@ -6,23 +6,23 @@ published: false
 
 该目录为学习的课程笔记 `Markdown` 源文件。笔记均在 [aCannedFish's Home](https://acannedfish.github.io/) 网页上。分别对应：
 
-- `CS0501_XX.md`: (SJTU CS0501) 数据结构
+- `CS0501/`: (SJTU CS0501) 数据结构
 	
 	主要参考课程教材《数据结构：思想与实现》和课程 PPT
 	
-- `CS2302_XX.md`: (SJTU CS2302) 计算机系统基础（2）
+- `CS2302/`: (SJTU CS2302) 计算机系统基础（2）
 	
 	主要参考课程教材《深入理解计算机系统》和课程 PPT + Codex
 	
-- `CS2322_XX.md`: (SJTU CS2322) 高级数据结构
+- `SE2322/`: (SJTU CS2322) 高级数据结构
 	
 	主要参考课程 PPT + Codex
 	
-- `SE2324_XX.md`: (SJTU SE2324) 计算机科学的数学基础
+- `SE2324/`: (SJTU SE2324) 计算机科学的数学基础
 	
 	主要参考课程 PPT + Codex
 	
-- `CS231n_XX.md`: (Stanford CS231n) 计算机视觉中的深度学习
+- `CS231n/`: (Stanford CS231n) 计算机视觉中的深度学习
 	
 	主要参考课程 Notes 及 PPT。
 	
@@ -30,7 +30,7 @@ published: false
 	
 	Assignments 实现：[aCannedFish/CS231n_Assignments](https://github.com/aCannedFish/CS231n_Assignments)
 	
-- `MIT6_S184_XX.md`: (MIT 6.S184) 流模型与扩散模型
+- `MIT6_S184/`: (MIT 6.S184) 流模型与扩散模型
 	
 	主要参考课程 Notes。
 	

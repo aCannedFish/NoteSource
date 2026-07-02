@@ -11,10 +11,14 @@
             "id": "d8cefe03ba02c3fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "README"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "_XX.md",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -191,34 +197,40 @@
       "github-copilot-integration:Open Copilot Chat": false
     }
   },
-  "active": "d8cefe03ba02c3fe",
+  "active": "10ecf95f2125137d",
   "lastOpenFiles": [
-    "CS2322_12.md",
-    "SE2322_14.md",
-    "SE2322_13.md",
-    "SE2322_12.md",
-    "SE2322_11.md",
-    "SE2322_10.md",
-    "SE2322_09.md",
-    "SE2322_08.md",
-    "SE2322_07.md",
-    "SE2322_06.md",
-    "SE2322_05.md",
-    "SE2322_04.md",
-    "SE2322_03.md",
-    "SE2322_02.md",
-    "SE2322_01.md",
-    "CS2322_11.md",
-    "CS2322_08.md",
-    "CS2322_10.md",
-    "CS2322_06.md",
-    "MIT6_S184_04.md",
-    "SE2302_07.md",
-    "SE2324_01.md",
-    "SE2302_08.md",
-    "CS0501_09.md",
-    "CS2322_05.md",
-    "CS2322_02.md",
+    "SE2324/SE2324_04.md",
+    "SE2324/SE2324_03.md",
+    "SE2324/SE2324_02.md",
+    "SE2324/SE2324_01.md",
+    "SE2322/SE2322_14.md",
+    "SE2322/SE2322_13.md",
+    "SE2322/SE2322_12.md",
+    "SE2322/SE2322_11.md",
+    "SE2322/SE2322_10.md",
+    "SE2322/SE2322_09.md",
+    "SE2322/SE2322_08.md",
+    "SE2322/SE2322_07.md",
+    "SE2322/SE2322_06.md",
+    "SE2322/SE2322_05.md",
+    "SE2322/SE2322_04.md",
+    "SE2322/SE2322_03.md",
+    "SE2322/SE2322_02.md",
+    "SE2322/SE2322_01.md",
+    "SE2302/SE2302_08.md",
+    "SE2302/SE2302_07.md",
+    "SE2302/SE2302_06.md",
+    "SE2302/SE2302_05.md",
+    "SE2302/SE2302_04.md",
+    "SE2302/SE2302_03.md",
+    "SE2302/SE2302_02.md",
+    "SE2302/SE2302_01.md",
+    "SE2324",
+    "SE2322",
+    "SE2302",
+    "MIT6_S184",
+    "CS231n",
+    "CS0501",
     "Pasted image 20260626193910.png",
     "Pasted image 20260625202139.png",
     "Pasted image 20260625201107.png",
@@ -229,12 +241,6 @@
     "math/7-svd.pptx",
     "math/6-eigen.pptx",
     "math/5-columnQR.pptx",
-    "math/4-matrixNormCond.pptx",
-    "math/3-DesignAnalyLinearSys.pptx",
-    "math/2-LinearSystemAndLU.pptx",
-    "math/1-preface.pptx",
-    "math",
-    "未命名文件夹",
     "未命名 1.canvas",
     "未命名.canvas",
     "img.png"
