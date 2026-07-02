@@ -11,14 +11,10 @@
             "id": "d8cefe03ba02c3fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS2322_11.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CS2322_11"
+              "title": "新标签页"
             }
           }
         ]
@@ -156,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS2322_11.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CS2322_11 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -199,6 +194,21 @@
   "active": "d8cefe03ba02c3fe",
   "lastOpenFiles": [
     "CS2322_12.md",
+    "SE2322_14.md",
+    "SE2322_13.md",
+    "SE2322_12.md",
+    "SE2322_11.md",
+    "SE2322_10.md",
+    "SE2322_09.md",
+    "SE2322_08.md",
+    "SE2322_07.md",
+    "SE2322_06.md",
+    "SE2322_05.md",
+    "SE2322_04.md",
+    "SE2322_03.md",
+    "SE2322_02.md",
+    "SE2322_01.md",
+    "CS2322_11.md",
     "CS2322_08.md",
     "CS2322_10.md",
     "CS2322_06.md",
@@ -209,22 +219,7 @@
     "CS0501_09.md",
     "CS2322_05.md",
     "CS2322_02.md",
-    "CS2322_01.md",
-    "CS2322_03.md",
-    "SE2302_01.md",
-    "SE2302_06.md",
-    "README.md",
-    "SE2302_02.md",
-    "SE2302_03.md",
-    "SE2302_04.md",
-    "SE2302_05.md",
     "Pasted image 20260626193910.png",
-    "CS0501_10.md",
-    "CS0501_08.md",
-    "CS0501_07.md",
-    "CS0501_06.md",
-    "CS0501_05.md",
-    "CS0501_04.md",
     "Pasted image 20260625202139.png",
     "Pasted image 20260625201107.png",
     "Pasted image 20260623224813.png",
