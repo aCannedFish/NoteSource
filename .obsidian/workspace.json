@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS2322_02.md",
+                "file": "CS0501_09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS2322_02"
+              "title": "CS0501_09"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS2322_02.md",
+                "file": "CS0501_09.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CS2322_02 的大纲"
+              "title": "CS0501_09 的大纲"
             }
           },
           {
@@ -198,9 +198,10 @@
   },
   "active": "d8cefe03ba02c3fe",
   "lastOpenFiles": [
+    "CS2322_05.md",
+    "CS2322_02.md",
     "CS2322_01.md",
     "CS2322_03.md",
-    "CS2322_02.md",
     "SE2302_01.md",
     "SE2302_06.md",
     "SE2324_01.md",
@@ -226,7 +227,6 @@
     "Pasted image 20260625202139.png",
     "Pasted image 20260625201107.png",
     "CS2322_08.md",
-    "CS2322_05.md",
     "Pasted image 20260623224813.png",
     "Pasted image 20260623141344.png",
     "Pasted image 20260623134551.png",
