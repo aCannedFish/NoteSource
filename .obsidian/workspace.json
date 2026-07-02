@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS2322_01.md",
+                "file": "CS2322_02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS2322_01"
+              "title": "CS2322_02"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS2322_01.md",
+                "file": "CS2322_02.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CS2322_01 的大纲"
+              "title": "CS2322_02 的大纲"
             }
           },
           {
@@ -198,9 +198,9 @@
   },
   "active": "d8cefe03ba02c3fe",
   "lastOpenFiles": [
+    "CS2322_01.md",
     "CS2322_03.md",
     "CS2322_02.md",
-    "CS2322_01.md",
     "SE2302_01.md",
     "SE2302_06.md",
     "SE2324_01.md",
