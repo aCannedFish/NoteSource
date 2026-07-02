@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "_XX.md",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,8 +196,9 @@
       "github-copilot-integration:Open Copilot Chat": false
     }
   },
-  "active": "10ecf95f2125137d",
+  "active": "d8cefe03ba02c3fe",
   "lastOpenFiles": [
+    "README.md",
     "SE2324/SE2324_04.md",
     "SE2324/SE2324_03.md",
     "SE2324/SE2324_02.md",
@@ -224,7 +224,6 @@
     "SE2302/SE2302_04.md",
     "SE2302/SE2302_03.md",
     "SE2302/SE2302_02.md",
-    "SE2302/SE2302_01.md",
     "SE2324",
     "SE2322",
     "SE2302",
